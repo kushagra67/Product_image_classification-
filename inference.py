@@ -12,9 +12,9 @@ from PIL import Image
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
 
-from models import create_model
-from dataset import get_default_transforms
-from preprocessing import ImagePreprocessor
+from src.models import create_model
+from src.dataset import get_default_transforms
+from src.preprocessing import ImagePreprocessor
 
 
 class ImageClassifier:
