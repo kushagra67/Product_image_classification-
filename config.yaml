@@ -1,0 +1,16 @@
+model:
+  name: 'resnet50'                    # Model architecture: 'resnet50' or 'efficientnet_b0'
+  num_classes: 4                      # Number of product categories (books, clothing, electronics, furniture)
+  pretrained: true                    # Use pretrained ImageNet weights
+
+training:
+  batch_size: 32                      # Batch size for training
+  num_epochs: 20                      # Total training epochs
+  learning_rate: 0.001                # Initial learning rate
+  train_split: 0.8                    # Train/validation split ratio
+
+data:
+  image_size: 224                     # Input image size (224x224)
+  augment: true                       # Enable data augmentation
+
+device: 'cpu'                        # Device: 'cuda' for GPU, 'cpu' for CPU
