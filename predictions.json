@@ -98,43 +98,43 @@
   "clothing_001.jpg": [
     {
       "class": "clothing",
-      "confidence": 1.0
+      "confidence": 0.9999854564666748
     }
   ],
   "clothing_002.jpg": [
     {
       "class": "clothing",
-      "confidence": 1.0
+      "confidence": 0.9999973773956299
     }
   ],
   "clothing_003.jpg": [
     {
       "class": "clothing",
-      "confidence": 1.0
+      "confidence": 0.9999996423721313
     }
   ],
   "clothing_004.jpg": [
     {
       "class": "clothing",
-      "confidence": 1.0
+      "confidence": 0.9999966621398926
     }
   ],
   "clothing_005.jpg": [
     {
       "class": "clothing",
-      "confidence": 1.0
+      "confidence": 0.9999972581863403
     }
   ],
   "clothing_006.jpg": [
     {
       "class": "clothing",
-      "confidence": 1.0
+      "confidence": 0.9999998807907104
     }
   ],
   "clothing_007.jpg": [
     {
       "class": "clothing",
-      "confidence": 1.0
+      "confidence": 0.9999915361404419
     }
   ],
   "clothing_008.jpg": [
@@ -146,13 +146,13 @@
   "clothing_009.jpg": [
     {
       "class": "clothing",
-      "confidence": 1.0
+      "confidence": 0.9991021156311035
     }
   ],
   "clothing_010.jpg": [
     {
       "class": "clothing",
-      "confidence": 1.0
+      "confidence": 0.9999996423721313
     }
   ],
   "clothing_011.jpg": [
@@ -164,7 +164,7 @@
   "clothing_012.jpg": [
     {
       "class": "clothing",
-      "confidence": 1.0
+      "confidence": 0.9999986886978149
     }
   ],
   "clothing_013.jpg": [
@@ -272,7 +272,7 @@
   "furniture_000.jpg": [
     {
       "class": "furniture",
-      "confidence": 1.0
+      "confidence": 0.9999997615814209
     }
   ],
   "furniture_001.jpg": [
@@ -284,7 +284,7 @@
   "furniture_002.jpg": [
     {
       "class": "furniture",
-      "confidence": 1.0
+      "confidence": 0.9999411106109619
     }
   ],
   "furniture_003.jpg": [
@@ -308,13 +308,13 @@
   "furniture_006.jpg": [
     {
       "class": "furniture",
-      "confidence": 1.0
+      "confidence": 0.9992850422859192
     }
   ],
   "furniture_007.jpg": [
     {
       "class": "furniture",
-      "confidence": 1.0
+      "confidence": 0.9999946355819702
     }
   ],
   "furniture_008.jpg": [
@@ -331,14 +331,14 @@
   ],
   "furniture_010.jpg": [
     {
-      "class": "furniture",
-      "confidence": 1.0
+      "class": "books",
+      "confidence": 0.5109691023826599
     }
   ],
   "furniture_011.jpg": [
     {
       "class": "furniture",
-      "confidence": 1.0
+      "confidence": 0.7686423063278198
     }
   ],
   "furniture_012.jpg": [
