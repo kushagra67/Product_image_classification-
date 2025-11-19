@@ -2,361 +2,361 @@
   "books_000.jpg": [
     {
       "class": "books",
-      "confidence": 1.0
+      "confidence": 0.8716810941696167
     }
   ],
   "books_001.jpg": [
     {
       "class": "books",
-      "confidence": 1.0
+      "confidence": 0.4058726727962494
     }
   ],
   "books_002.jpg": [
     {
       "class": "books",
-      "confidence": 1.0
+      "confidence": 0.8324629664421082
     }
   ],
   "books_003.jpg": [
     {
       "class": "books",
-      "confidence": 1.0
+      "confidence": 0.8204222321510315
     }
   ],
   "books_004.jpg": [
     {
       "class": "books",
-      "confidence": 1.0
+      "confidence": 0.8745082020759583
     }
   ],
   "books_005.jpg": [
     {
       "class": "books",
-      "confidence": 1.0
+      "confidence": 0.6763811111450195
     }
   ],
   "books_006.jpg": [
     {
       "class": "books",
-      "confidence": 1.0
+      "confidence": 0.931416392326355
     }
   ],
   "books_007.jpg": [
     {
       "class": "books",
-      "confidence": 1.0
+      "confidence": 0.5632198452949524
     }
   ],
   "books_008.jpg": [
     {
       "class": "books",
-      "confidence": 1.0
+      "confidence": 0.8691633343696594
     }
   ],
   "books_009.jpg": [
     {
       "class": "books",
-      "confidence": 1.0
+      "confidence": 0.6787753701210022
     }
   ],
   "books_010.jpg": [
     {
       "class": "books",
-      "confidence": 1.0
+      "confidence": 0.6371425986289978
     }
   ],
   "books_011.jpg": [
     {
       "class": "books",
-      "confidence": 1.0
+      "confidence": 0.7566584944725037
     }
   ],
   "books_012.jpg": [
     {
       "class": "books",
-      "confidence": 1.0
+      "confidence": 0.7642356157302856
     }
   ],
   "books_013.jpg": [
     {
       "class": "books",
-      "confidence": 1.0
+      "confidence": 0.7601903676986694
     }
   ],
   "books_014.jpg": [
     {
       "class": "books",
-      "confidence": 1.0
+      "confidence": 0.7643661499023438
     }
   ],
   "clothing_000.jpg": [
     {
-      "class": "clothing",
-      "confidence": 1.0
+      "class": "furniture",
+      "confidence": 0.5187786221504211
     }
   ],
   "clothing_001.jpg": [
     {
       "class": "clothing",
-      "confidence": 0.9999854564666748
+      "confidence": 0.9999788999557495
     }
   ],
   "clothing_002.jpg": [
     {
-      "class": "clothing",
-      "confidence": 0.9999973773956299
+      "class": "furniture",
+      "confidence": 0.3881970942020416
     }
   ],
   "clothing_003.jpg": [
     {
       "class": "clothing",
-      "confidence": 0.9999996423721313
+      "confidence": 0.7567498683929443
     }
   ],
   "clothing_004.jpg": [
     {
       "class": "clothing",
-      "confidence": 0.9999966621398926
+      "confidence": 0.9334163665771484
     }
   ],
   "clothing_005.jpg": [
     {
       "class": "clothing",
-      "confidence": 0.9999972581863403
+      "confidence": 0.9999614953994751
     }
   ],
   "clothing_006.jpg": [
     {
       "class": "clothing",
-      "confidence": 0.9999998807907104
+      "confidence": 0.9996985197067261
     }
   ],
   "clothing_007.jpg": [
     {
       "class": "clothing",
-      "confidence": 0.9999915361404419
+      "confidence": 0.9991693496704102
     }
   ],
   "clothing_008.jpg": [
     {
       "class": "clothing",
-      "confidence": 1.0
+      "confidence": 0.9998841285705566
     }
   ],
   "clothing_009.jpg": [
     {
       "class": "clothing",
-      "confidence": 0.9991021156311035
+      "confidence": 0.9999614953994751
     }
   ],
   "clothing_010.jpg": [
     {
       "class": "clothing",
-      "confidence": 0.9999996423721313
+      "confidence": 0.9998949766159058
     }
   ],
   "clothing_011.jpg": [
     {
       "class": "clothing",
-      "confidence": 1.0
+      "confidence": 0.9999364614486694
     }
   ],
   "clothing_012.jpg": [
     {
       "class": "clothing",
-      "confidence": 0.9999986886978149
+      "confidence": 0.9999654293060303
     }
   ],
   "clothing_013.jpg": [
     {
       "class": "clothing",
-      "confidence": 1.0
+      "confidence": 0.9999723434448242
     }
   ],
   "clothing_014.jpg": [
     {
       "class": "clothing",
-      "confidence": 1.0
+      "confidence": 0.9995490908622742
     }
   ],
   "electronics_000.jpg": [
     {
       "class": "electronics",
-      "confidence": 1.0
+      "confidence": 0.398140549659729
     }
   ],
   "electronics_001.jpg": [
     {
       "class": "electronics",
-      "confidence": 1.0
+      "confidence": 0.9983288645744324
     }
   ],
   "electronics_002.jpg": [
     {
       "class": "electronics",
-      "confidence": 1.0
+      "confidence": 0.5717239379882812
     }
   ],
   "electronics_003.jpg": [
     {
       "class": "electronics",
-      "confidence": 1.0
+      "confidence": 0.718360185623169
     }
   ],
   "electronics_004.jpg": [
     {
       "class": "electronics",
-      "confidence": 1.0
+      "confidence": 0.48033225536346436
     }
   ],
   "electronics_005.jpg": [
     {
       "class": "electronics",
-      "confidence": 1.0
+      "confidence": 0.99831223487854
     }
   ],
   "electronics_006.jpg": [
     {
       "class": "electronics",
-      "confidence": 1.0
+      "confidence": 0.6811286807060242
     }
   ],
   "electronics_007.jpg": [
     {
       "class": "electronics",
-      "confidence": 1.0
+      "confidence": 0.9154620170593262
     }
   ],
   "electronics_008.jpg": [
     {
       "class": "electronics",
-      "confidence": 1.0
+      "confidence": 0.9983888864517212
     }
   ],
   "electronics_009.jpg": [
     {
       "class": "electronics",
-      "confidence": 1.0
+      "confidence": 0.9913452863693237
     }
   ],
   "electronics_010.jpg": [
     {
       "class": "electronics",
-      "confidence": 1.0
+      "confidence": 0.974888801574707
     }
   ],
   "electronics_011.jpg": [
     {
       "class": "electronics",
-      "confidence": 1.0
+      "confidence": 0.9980509281158447
     }
   ],
   "electronics_012.jpg": [
     {
       "class": "electronics",
-      "confidence": 1.0
+      "confidence": 0.9998297691345215
     }
   ],
   "electronics_013.jpg": [
     {
       "class": "electronics",
-      "confidence": 1.0
+      "confidence": 0.9714890718460083
     }
   ],
   "electronics_014.jpg": [
     {
       "class": "electronics",
-      "confidence": 1.0
+      "confidence": 0.9992378950119019
     }
   ],
   "furniture_000.jpg": [
     {
       "class": "furniture",
-      "confidence": 0.9999997615814209
+      "confidence": 0.9606583714485168
     }
   ],
   "furniture_001.jpg": [
     {
-      "class": "furniture",
-      "confidence": 1.0
+      "class": "clothing",
+      "confidence": 0.34729257225990295
     }
   ],
   "furniture_002.jpg": [
     {
       "class": "furniture",
-      "confidence": 0.9999411106109619
+      "confidence": 0.8955042958259583
     }
   ],
   "furniture_003.jpg": [
     {
       "class": "furniture",
-      "confidence": 1.0
+      "confidence": 0.9383809566497803
     }
   ],
   "furniture_004.jpg": [
     {
       "class": "furniture",
-      "confidence": 1.0
+      "confidence": 0.8544526100158691
     }
   ],
   "furniture_005.jpg": [
     {
       "class": "furniture",
-      "confidence": 1.0
+      "confidence": 0.8699622750282288
     }
   ],
   "furniture_006.jpg": [
     {
       "class": "furniture",
-      "confidence": 0.9992850422859192
+      "confidence": 0.865945041179657
     }
   ],
   "furniture_007.jpg": [
     {
       "class": "furniture",
-      "confidence": 0.9999946355819702
+      "confidence": 0.9259552359580994
     }
   ],
   "furniture_008.jpg": [
     {
       "class": "furniture",
-      "confidence": 1.0
+      "confidence": 0.9080461263656616
     }
   ],
   "furniture_009.jpg": [
     {
       "class": "furniture",
-      "confidence": 1.0
+      "confidence": 0.8276426196098328
     }
   ],
   "furniture_010.jpg": [
     {
-      "class": "books",
-      "confidence": 0.5109691023826599
+      "class": "furniture",
+      "confidence": 0.9583360552787781
     }
   ],
   "furniture_011.jpg": [
     {
       "class": "furniture",
-      "confidence": 0.7686423063278198
+      "confidence": 0.8979905843734741
     }
   ],
   "furniture_012.jpg": [
     {
       "class": "furniture",
-      "confidence": 1.0
+      "confidence": 0.9122155904769897
     }
   ],
   "furniture_013.jpg": [
     {
       "class": "furniture",
-      "confidence": 1.0
+      "confidence": 0.9177402257919312
     }
   ],
   "furniture_014.jpg": [
     {
       "class": "furniture",
-      "confidence": 1.0
+      "confidence": 0.9230116009712219
     }
   ]
 }
